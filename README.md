@@ -1,6 +1,6 @@
 # 🎯 Mega-Sena Data Analysis with Python
 
-Análise estatística da **Mega-Sena (1999 → atual)** utilizando **Python**, **dados oficiais da Caixa** e técnicas básicas de **Data Analysis**.
+Análise estatística da **Mega-Sena (1996 → atual)** utilizando **Python**, **dados oficiais da Caixa** e técnicas básicas de **Data Analysis**.
 
 > ⚠️ **Aviso importante:**
 > Este projeto **não prevê resultados**, **não garante ganhos** e **não promete números vencedores**.
